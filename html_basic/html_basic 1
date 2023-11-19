@@ -11,7 +11,7 @@
         <h1>My Teams</h1>
 
     <footer>
-        <p>Made by Thabang please check it out <a href="file:///C:/Users/Thabang/Documents/alx_html_css/ALX_HTML_CSS2/ALX_HTML_CSS2/2/ALX_HTML_CSS2/html_basic/index.html" target="blank"></a></p></footer>
+        <p>Made by Thabang please check it out <a href="file:///C:/Users/Thabang/Documents/alx_html_css/ALX_HTML_CSS2/ALX_HTML_CSS2/2/ALX_HTML_CSS2/html_basic/index.html"target="blank"></a></p></footer>
 
             <main> <p>This time I'm trying my best so I can successfully finish my projects.</p></main>
     <article> <p>class="Documents" project 1</p> <p> <a href="file:///C:/Users/Thabang/Documents/alx_html_css/alx_html_css/base_index.html">Link to project 1</a></p>
