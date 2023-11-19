@@ -11,14 +11,14 @@
         <h1>My Teams</h1>
 
     <footer>
-        <p>Made by Thabang please check it out <a href="file:///C:/Users/Thabang/Documents/alx_html_css/ALX_HTML_CSS2/ALX_HTML_CSS2/2/ALX_HTML_CSS2/html_basic/index.html"target="blank"></a></p></footer>
+        <p>Made by Thabang please check it out <a href="file:///C:/Users/Thabang/Documents/alx_html_css/ALX_HTML_CSS2/ALX_HTML_CSS2/2/ALX_HTML_CSS2/html_basic/index.html" target="blank"></a></p></footer>
 
             <main> <p>This time I'm trying my best so I can successfully finish my projects.</p></main>
     <article> <p>class="Documents" project 1</p> <p> <a href="file:///C:/Users/Thabang/Documents/alx_html_css/alx_html_css/base_index.html">Link to project 1</a></p>
        <p>class="Documents"  project 2</p> <a href="file:///C:/Users/Thabang/Documents/alx_html_css/ALX_HTML_CSS2/ALX_HTML_CSS2/html_basic/index.html">Link to project 2</a>
-       <p>class="Documents"  project </p></p><a href="file:///C:/Users/Thabang/Documents/alx_html_css/ALX_HTML_CSS2/ALX_HTML_CSS2/html_basic/tweets.html">Link to project 3</a> </p>
+       <p>class="Documents"  project </p><a href="file:///C:/Users/Thabang/Documents/alx_html_css/ALX_HTML_CSS2/ALX_HTML_CSS2/html_basic/tweets.html">Link to project 3</a> </p>
        <h2>Students Around The World</h2>
-       <table border="1px" width="500px">
+       <table border="5px" width="5px">
         <thead>
             <th>Name</th>
             <th>Age</th>
